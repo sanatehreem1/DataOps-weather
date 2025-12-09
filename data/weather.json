@@ -8,29 +8,29 @@
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01d"
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 26.99,
-    "feels_like": 27.66,
-    "temp_min": 26.99,
-    "temp_max": 27.94,
+    "temp": 25.99,
+    "feels_like": 25.99,
+    "temp_min": 25.99,
+    "temp_max": 27.17,
     "pressure": 1016,
-    "humidity": 54,
+    "humidity": 65,
     "sea_level": 1016,
     "grnd_level": 1014
   },
   "visibility": 10000,
   "wind": {
-    "speed": 4.63,
-    "deg": 110
+    "speed": 3.09,
+    "deg": 130
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1765281869,
+  "dt": 1765289408,
   "sys": {
     "type": 1,
     "id": 7614,
@@ -42,5 +42,5 @@
   "id": 290030,
   "name": "Doha",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T12:06:08.240Z"
+  "_last_updated_utc": "2025-12-09T14:13:04.082Z"
 }
