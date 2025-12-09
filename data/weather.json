@@ -17,20 +17,20 @@
     "feels_like": 24.48,
     "temp_min": 23.99,
     "temp_max": 23.99,
-    "pressure": 1017,
+    "pressure": 1016,
     "humidity": 78,
-    "sea_level": 1017,
-    "grnd_level": 1015
+    "sea_level": 1016,
+    "grnd_level": 1014
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.06,
-    "deg": 80
+    "speed": 2.57,
+    "deg": 100
   },
   "clouds": {
     "all": 0
   },
-  "dt": 1765303824,
+  "dt": 1765310859,
   "sys": {
     "type": 1,
     "id": 7614,
@@ -42,5 +42,5 @@
   "id": 290030,
   "name": "Doha",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T18:14:10.286Z"
+  "_last_updated_utc": "2025-12-09T20:11:37.802Z"
 }
